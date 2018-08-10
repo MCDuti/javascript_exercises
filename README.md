@@ -1,3 +1,3 @@
 # JavaScript Exercises
 
-**Nothing to see here, move along**
+**This is not the code you're looking for..**
