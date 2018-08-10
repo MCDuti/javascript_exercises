@@ -55,6 +55,3 @@ function testRandom (results) {
 testSelectRomanNumber();
 testRomanConversion();
 testFullRomanString(352, "CCCLII");
-
-// testRomannum(15,5);
-// testRandom(10);
